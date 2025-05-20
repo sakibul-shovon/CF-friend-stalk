@@ -24,7 +24,7 @@ A React-based tool that helps you track your friends' solved problems on Codefor
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/cf-friend-stalk.git
+git clone https://github.com/sakibul-shovon/cf-friend-stalk.git
 cd cf-friend-stalk
 ```
 
